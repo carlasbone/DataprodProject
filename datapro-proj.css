@@ -1,0 +1,9 @@
+.changebgcolour .reveal .state-background {
+  background: blue;
+} 
+
+.changebgcolour .reveal h1,
+.changebgcolour .reveal h2,
+.changebgcolour .reveal p {
+  color: white;
+}
